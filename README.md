@@ -19,7 +19,7 @@ Welcome to the Employee Analytics Service, a microservice in the Employee Tracki
     "skills": ["Java", "Spring Boot", "Microservices"]
   }
   - **Response Body:**
-  ```json
+    ```json
   {
   "employeeId": 123,
   "predictedPerformance": 4.8,
@@ -52,7 +52,6 @@ Welcome to the Employee Analytics Service, a microservice in the Employee Tracki
     "firstName": "John",
     "lastName": "Doe"
   },
-  // Additional top performers
 ]
 
 
