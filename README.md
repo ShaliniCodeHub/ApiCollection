@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Employee Analytics Service, a microservice in the Employee Tracking System designed to provide analytics and insights related to employee performance. This service models to predict employee performance and offers valuable insights into individual and team achievements.
+Welcome to the Employee Analytics Service, a component of the Employee Tracking System. This microservice is designed to handle performance-related functionalities and analytics for employees.
 
 ## Employee Analytics Service API
 
